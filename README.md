@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmeerHamza838
 - 👀 I’m interested in coding, photography, Cinematography, Film, Music, 
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on C++.
+- 🌱 I’m currently learning HTML5 and CSS.
 - 📫 How to reach me? Discord: Noah.I.am#3350
 
 <!---

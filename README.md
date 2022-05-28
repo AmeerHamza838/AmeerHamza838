@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 - 👋 Hi, I’m Ameer Hamza.
 - 👀 I’m interested in coding, photography, Cinematography, Film, Music, 
 - 🌱 I’m currently learning HTML5 and CSS.
+=======
+- 👋 Hi, I’m Ameer Hamza
+- 👀 I’m interested in coding, photography, Cinematography, Film, Music, 
+- 🌱 I’m currently learning HTML and CSS3.
+>>>>>>> Stashed changes
 - 📫 How to reach me? Discord: Noah.I.am#3350
 
 <!---
